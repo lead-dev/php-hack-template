@@ -2,7 +2,6 @@
 
 Author: _jim conallen, jconallen@us.ibm.com_
 
-Last Modified: _10-Feb, 2017_
 
 ## Overview
 
