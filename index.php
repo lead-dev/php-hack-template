@@ -59,7 +59,10 @@
         This page is based off the <a href="http://getbootstrap.com/examples/jumbotron/">Jumbotron Bootstrap template</a>.
         It is useful for a big opening splash of a home page.
         </p>
-
+ <p>
+        This would be a good spot to provide a summary or your apps purpose or goal.  Tease the user with the
+        funtionality that it offers them.
+        </p>
       </div>
     </div>
 
